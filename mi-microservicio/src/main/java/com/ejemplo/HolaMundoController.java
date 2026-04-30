@@ -21,6 +21,5 @@ public class HolaMundoController {
 
         // 4. Retornamos el nombre del archivo JSP (sin el .jsp)
         return "hola";
-
     }
 }
