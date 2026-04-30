@@ -13,7 +13,7 @@
 <body>
     <div class="container">
         <!-- Aquí es donde ocurre la magia -->
-        <h1>${textoParaLaVista}</h1>
+        <h1>${mensaje}</h1>
         <p>Estado del contenedor: <span class="badge">Activo</span></p>
     </div>
 </body>
