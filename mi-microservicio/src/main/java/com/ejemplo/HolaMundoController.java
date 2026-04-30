@@ -14,7 +14,7 @@ public class HolaMundoController {
         int numeroAleatorio = new Random().nextInt(1000);
 
         // 2. Creamos el mensaje
-        String mensajeCompleto = "Hola mundo desde mi primer microservicio " + numeroAleatorio;
+        String mensajeCompleto = "Hola mundo desde mi primer microservicio galiano" + numeroAleatorio;
 
         // 3. Pasamos el mensaje al JSP usando el "modelo"
         model.addAttribute("textoParaLaVista", mensajeCompleto);
