@@ -17,8 +17,12 @@ public class HolaMundoController {
         return "hola";
     }
 
+    /**
+     * Prueba documentacion
+     */
     public void prueba() {
-
+        // Añadimos una instrucción para que no esté vacío
+        int suma = 1 + 1;
     }
 
 }
