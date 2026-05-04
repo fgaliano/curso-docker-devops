@@ -17,7 +17,7 @@ public class HolaMundoController {
         return "hola";
     }
 
-    private void prueba() {
+    public void prueba() {
 
     }
 
