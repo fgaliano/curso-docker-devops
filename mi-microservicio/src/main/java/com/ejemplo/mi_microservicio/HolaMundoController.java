@@ -16,4 +16,9 @@ public class HolaMundoController {
         // 3. Devolvemos el nombre del archivo JSP (sin .jsp)
         return "hola";
     }
+
+    private void prueba() {
+
+    }
+
 }
